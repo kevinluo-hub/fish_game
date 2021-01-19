@@ -1,4 +1,4 @@
-Project 1 description
+Project description
 Kevin Luo
 Description: 
 
